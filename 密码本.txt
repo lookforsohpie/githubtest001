@@ -1,0 +1,7 @@
+centOS 7
+	root wuyi
+	wuyi Asdf.123
+	git  git
+github 
+	wujinpeng_up@163.com wuyi6278978
+ 
